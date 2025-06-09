@@ -5,6 +5,24 @@
   <a href="mailto:alzowa123@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge">
+</p>
+
 ---
 
 ### 👋 About Me
@@ -12,6 +30,8 @@
 I'm **Mohammed Omer Alzowa**, a Software Engineer and Backend Team Leader at SmartGenx.  
 With 4+ years of experience, I specialize in backend development, scalable system architecture, and technical leadership.  
 I love solving complex backend problems, building high-performance APIs, and mentoring junior developers.
+
+**Currently, I also work as a Remote Part-Time Full Stack Developer at [IDEALLCO](https://ideallco.com/) (since April 2025).**
 
 ---
 
@@ -29,6 +49,7 @@ I love solving complex backend problems, building high-performance APIs, and men
 ### 🏆 Key Achievements
 
 - **Team Lead** at SmartGenx – Leading backend team and designing scalable architectures.
+- **Full Stack Developer** at [IDEALLCO](https://ideallco.com/) – Working remotely (part-time) since April 2025.
 - Built **7+ websites, 5 digital platforms, 3 desktop systems, 1 mobile app** from scratch.
 - Designed and optimized mission-critical backend systems using Node.js and .NET.
 - Proficient in cloud deployment, database scaling, and data synchronization.
