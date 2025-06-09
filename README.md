@@ -37,7 +37,7 @@ I love solving complex backend problems, building high-performance APIs, and men
 
 ### 🚀 What I Do
 
-- **Backend Development**: Node.js, Express, .NET 8, NestJS, Prisma, REST API, GraphQL.
+- **Backend Development**: Node.js, Express, NestJS, Prisma, Mongoose, REST API, GraphQL, .NET 8.
 - **Frontend**: React.js, Next.js, Tailwind CSS, Electron.js.
 - **Database Management**: PostgreSQL, SQL Server, MySQL, MongoDB, DynamoDB.
 - **DevOps**: Docker, AWS (Amplify, EC2, RDS, S3, Lambda), Azure, CI/CD, GitHub Actions.
