@@ -78,19 +78,6 @@ I love solving complex backend problems, building high-performance APIs, and men
 - Training & teaching complex topics
 - Strong problem-solving & debugging
 
----
-
-### 🎓 Education
-
-- **Master’s in Information Technology** – Al-Rayan University *(2024 – Present)*
-- **Bachelor’s in Computer Science** – Hadhramout University *(2015 – 2019)*
-
----
-
-### 🌍 Languages
-
-- Arabic (Native)
-- English (Intermediate)
 
 ---
 
